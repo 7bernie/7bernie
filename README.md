@@ -34,5 +34,5 @@ My work focused on transforming raw algorithms and Large Language Models (LLMs) 
 
 ### 📫 Let's Connect!
 - **Email:** bernardbassie@gmail.com
-- **Location:** Remote / Lagos, Nigeria
+- **Location:** Remote | Lagos, Nigeria
 - **Focus:** Scalable AI Production Systems, MLOps, and Intelligent Automation Contracts.
