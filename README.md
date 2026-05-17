@@ -26,10 +26,9 @@ My work focused on transforming raw algorithms and Large Language Models (LLMs) 
 
 ---
 
-### 📈 Pinned Projects Highlight
-* 🤖 **[agents](./agents)** - End-to-end multi-agent conversational systems, tool-calling mechanics, and modular AI pipeline development workflows.
-* 📊 **Financial Engineering Pipelines** - Custom stochastic modeling and high-velocity quantitative data processing architectures using Python.
-
+### 📈 Technical Focus Areas
+* 🤖 **Agentic Frameworks** - Actively building and deploying multi-agent conversational pipelines, structured tool-calling mechanics, and modular workflows.
+* 📊 **Financial Engineering Frameworks** - Developing custom stochastic modeling and high-velocity quantitative data processing architectures using Python.
 ---
 
 ### 📫 Let's Connect!
