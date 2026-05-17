@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Bernard 👋 (7bernie)
 
-<!--
-**7bernie/7bernie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Systems Architect** *Bridging the gap between scalable enterprise infrastructure, cloud native architectures, and frontier Generative AI solutions.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a technical builder with over 6 years of experience managing high-availability enterprise infrastructure and orchestrating complex automation pipelines. Combining my software engineering background (ALX) with advanced specializations in AI Engineering and Financial Engineering (MSc in progress), I architect robust, production-grade applications. 
+
+My work focused on transforming raw algorithms and Large Language Models (LLMs) into reliable, scalable, and secure systems that drive real-world business automation.
+
+- 🧠 **Currently specializing in:** Agentic AI architectures, RAG optimization pipelines, and custom tool-calling frameworks via the Model Context Protocol (MCP).
+- 🛠️ **Systems & DevOps Backbone:** Expert in Kubernetes (KCNA), cloud-native topologies, GCP Architecture, and advanced Linux/Python automation.
+- ⚙️ **Workflow Philosophy:** Strict test-driven approach, pristine documentation, and clean Git branching disciplines.
+
+---
+
+### 🛠️ Core Tech Stack & Toolkit
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **AI & MLOps** | LLM Inference, RAG Frameworks, Agentic Workflows, Tool-calling (MCP), Prompt Engineering |
+| **Languages** | Python, Bash, PowerShell, C |
+| **Cloud & DevOps** | Google Cloud Platform (GCP Architect), AWS, Kubernetes (KCNA), Docker, Git |
+| **Infrastructure** | Linux (Ubuntu, RedHat, CentOS), Virtualization (VMware ESXi, Nutanix HCI) |
+
+---
+
+### 📈 Pinned Projects Highlight
+* 🤖 **[agents](./agents)** - End-to-end multi-agent conversational systems, tool-calling mechanics, and modular AI pipeline development workflows.
+* 📊 **Financial Engineering Pipelines** - Custom stochastic modeling and high-velocity quantitative data processing architectures using Python.
+
+---
+
+### 📫 Let's Connect!
+- **Email:** bernardbassie@gmail.com
+- **Location:** Remote / Lagos, Nigeria
+- **Focus:** Scalable AI Production Systems, MLOps, and Intelligent Automation Contracts.
